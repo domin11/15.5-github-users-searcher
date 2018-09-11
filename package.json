@@ -2,7 +2,7 @@
   "name": "github.users.searcher",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "build.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
 	"build": "babel script.js --watch --out-file build.js"
